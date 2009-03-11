@@ -1,6 +1,6 @@
 stumptowner.whoahbot.com
-  whoahbot@gmail.com
-  http://whoahbot.com
+whoahbot@gmail.com
+http://whoahbot.com
 
 == DESCRIPTION:
   
